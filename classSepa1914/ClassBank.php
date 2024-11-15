@@ -19,11 +19,6 @@ Class Bank {
     {
 
     }
-
-				public function setHolderDebit(float $debit): void
-				{
-						$this->holderDebit = $debit;
-				}
 				
 }
 ?>
